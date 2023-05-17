@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+nerfstudio/data/nerfstudio
+nerfstudio/data/blender
+
 # C extensions
 *.so
 
